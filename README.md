@@ -3,7 +3,7 @@
 #### Se você chegou até aqui, que tal darmos um match profissional? 😁
  
 - 👀 Me interesso bastante pela área de programação em geral, mas estou almejando uma carreira de Dev Fullstack!
-- 🌱 Atualmente estou estudando a tríade web (HTML, CSS e JS) e também Java, C#, NodeJS, SQL Server. Juntamente com Bootstrap, ReactJS, .Net e Entity Framework.
+- 🌱 Atualmente estou estudando a tríade web (HTML, CSS e JS) e também Java, C#, NodeJS, SQL Server. Juntamente com Bootstrap, ReactJS, .Net, Entity Framework e Spring.
 
 <div align="center">
   <a href="https://github.com/rodrigolopes44">
